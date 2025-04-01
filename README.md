@@ -12,7 +12,7 @@ npm install @cosmjs/proto-signing @cosmjs/stargate readline
 
 git clone https://github.com/SacittWeb/union-test-9-stargaze.git
 
-cd bridge-stars-to-union-ibc.js
+cd union-test-9-stargaze
 
 nano bridge-stars-to-union-ibc.js
  ile dosya içine girip gerekli düzenlemeleri ( minemonic ler ve union adresiniz ) yapalım

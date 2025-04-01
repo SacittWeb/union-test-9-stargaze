@@ -14,7 +14,7 @@ const config = {
 const STARGAZE_RPC = "https://rpc.elgafar-1.stargaze-apis.com/";
 const STARGAZE_DENOM = "ustars";
 const IBC_CHANNEL = "channel-1"; // Stargaze -> Union IBC kanalı
-const GAS_LIMIT = 300000; // Dinamik gaz limiti (artırıldı)
+const GAS_LIMIT = 200000; // Dinamik gaz limiti 
 
 async function starsToUnionKopru() {
     // Config'den girişleri al

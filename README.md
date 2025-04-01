@@ -15,6 +15,7 @@ git clone https://github.com/SacittWeb/union-test-9-stargaze.git
 cd union-test-9-stargaze
 
 nano bridge-stars-to-union-ibc.js
+
  ile dosya içine girip gerekli düzenlemeleri ( minemonic ler ve union adresiniz ) yapalım
 
  node bridge-stars-to-union-ibc.js

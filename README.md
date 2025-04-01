@@ -20,3 +20,10 @@ nano bridge-stars-to-union-ibc.js
  node bridge-stars-to-union-ibc.js
 
 ile scripti başlatalım
+
+minimum stars miktarı 3 stars olmalı
+
+otomatik olarak 500 transfer yapar
+
+hata oluşursa script oto olarak durdurulur.
+

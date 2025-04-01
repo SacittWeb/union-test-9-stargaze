@@ -10,7 +10,7 @@ gerekli bağımlılıkları yükleyelim
 
 npm install @cosmjs/proto-signing @cosmjs/stargate readline
 
-https://github.com/SacittWeb/union-test-9-stargaze.git
+git clone https://github.com/SacittWeb/union-test-9-stargaze.git
 
 cd bridge-stars-to-union-ibc.js
 

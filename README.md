@@ -28,3 +28,18 @@ otomatik olarak 500 transfer yapar
 
 hata oluşursa script oto olarak durdurulur.
 
+Sorumluluk reddi
+⚠️ Sadece Eğitim Amaçlı
+
+Bu betik yalnızca Union Testnet'te eğitim ve test amaçlı olarak sağlanmaktadır
+Tüm işlemler gerçek parasal değeri olmayan testnet varlıklarını kullanır
+Union veya herhangi bir blockchain kuruluşuyla bağlantılı veya onaylı değildir
+Açık veya örtük HİÇBİR GARANTİ YOK - kendi riskinizle kullanın
+Geliştiriciler şunlardan dolayı hiçbir sorumluluk kabul etmez:
+Herhangi bir mali kayıp
+Hesap yasakları
+Ağ kesintileri
+Kötüye kullanımın hukuki sonuçları
+Ana ağ kullanımı kesinlikle önerilmez ve ağ politikalarını ihlal edebilir
+Kullanıcılar, yerel düzenlemelere uymaktan münhasıran sorumludur
+
